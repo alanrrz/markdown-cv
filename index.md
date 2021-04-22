@@ -1,9 +1,9 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Alan's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Alan Rodriguez
+Immigration, Public Transportation, Spatial Data.
 
 <div id="webaddress">
 <a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
@@ -13,7 +13,7 @@ Physicist, Mathematician, Cambridge professor.
 
 ## Currently
 
-Standing on the shoulders of giants
+First Year Masters in Public Policy Student at UC Riverside
 
 ### Specialized in
 
